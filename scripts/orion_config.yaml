@@ -1,0 +1,15 @@
+experiment:
+    algorithm:
+        random:
+            seed: 150
+
+    max_broken: 3
+    max_trials: 64
+    working_dir: /tmp/orion
+
+evc:
+  enable: False
+
+worker:
+   pool_size: 16
+   reservation_timeout: 360
