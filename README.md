@@ -19,3 +19,5 @@ This script will instantiate the base network,
 train a proxy for the bias variable by fitting a linear layer on top of the extracted representation,
 and then use the bias proxy to train a debiased network with logit adjustment and
 to perform bias-unsupervised validation on the debiased network, as it trains, at each epoch.
+
+Code base is built upon the [*solo-learn*](https://github.com/vturrisi/solo-learn) library for self-supervised learning algorithms. We make its license available in the `LICENSE_solo_learn` file.
