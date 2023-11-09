@@ -1,5 +1,5 @@
 # Group Robust Classification Without Any Group Information
-This PyTorch repository contains code for the reproduction of experiments presented at the NeurIPS 2023 submission.
+This PyTorch repository contains code for the reproduction of experiments presented at the **NeurIPS 2023** paper.
 
 ## Datasets
 Please find instructions for the benchmarks we consider in the paper below:  
